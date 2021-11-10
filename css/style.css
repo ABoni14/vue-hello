@@ -1,0 +1,12 @@
+.ab-container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(39, 110, 119);
+}
+
+h1{
+  font-size: 80px;
+}
